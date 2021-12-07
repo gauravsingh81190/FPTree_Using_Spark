@@ -1,8 +1,8 @@
 
 1. Introduction:
 
-  I chose “option 3 implementations of Frequent Pattern Tree association algorithm using Apache Spark. I implemented the whole program in Python.
-  I used the SPARK ML lib’s function FPGrowth (pyspark.ml.fpm.FPGrowth) to generate a frequent pattern using the FP tree algorithm.
+  I implemented the Frequent Pattern Tree association algorithm using Apache Spark. I implemented the whole program in Python. I used the SPARK ML lib’s function
+  FPGrowth (pyspark.ml.fpm.FPGrowth) to generate a frequent pattern using the FP tree algorithm.
 
 2. Spark Cluster configurations:
 
