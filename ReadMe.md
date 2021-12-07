@@ -25,3 +25,4 @@
 
       Python: 3.6.8
       
+3. The item csv file need to be present at all the node at same location. In my case i had copied items.csv as /tmp/FPTree_Using_Spark/data/items.csv location on all the slave nodes.
